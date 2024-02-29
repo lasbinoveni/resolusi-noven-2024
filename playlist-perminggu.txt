@@ -3,4 +3,6 @@ MENGUASAI PYTHON dan SELENIUM
   - Menggunakan IDE Visual Studio.
 - Mempelajari Selenium di Youtube Ide Jongkok.
 - Mempelajari Database MySQL di Udemy
-- Mempelajari PHP.
+- Mempelajari PHP.  
+  - Laravel.
+
