@@ -4,3 +4,7 @@ MENGUASAI PYTHON dan SELENIUM
 - Mempelajari Selenium di Youtube Ide Jongkok.
 - Mempelajari Database MySQL di Udemy
 - Mempelajari PHP.
+  - Laravel.
+- Mempelajari Javascript
+  - Vue Js.
+  - React.
