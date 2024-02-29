@@ -1,0 +1,9 @@
+TAHUN 2024 MENJADI QUALITY ASSURANCE AUTOMATION (SELENIUM)
+
+Resolusi Maret 2024
+a. Senin - Selasa
+  - Mempelajari Python.
+b. Rabu - Kamis
+  - Mempelajari Selenium.
+C. Jum'at - sabtu
+  - Mempelajari Database MySQL.
