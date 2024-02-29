@@ -7,3 +7,6 @@ b. Rabu - Kamis
   - Mempelajari Selenium.
 C. Jum'at - sabtu
   - Mempelajari Database MySQL.
+D. Minggu
+  - Libur donk.
+  - jalan-jalan dulu.
