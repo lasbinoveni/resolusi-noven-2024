@@ -5,4 +5,5 @@ MENGUASAI PYTHON dan SELENIUM
 - Mempelajari Database MySQL di Udemy
 - Mempelajari PHP.  
   - Laravel.
-
+- Mempelajari Javascript
+  - React.
