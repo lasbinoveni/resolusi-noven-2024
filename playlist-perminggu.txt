@@ -1,0 +1,4 @@
+MENGUASAI PYTHON dan SELENIUM
+- Mempelajari python dasar di Youtube Kelas Terbuka.
+- Mempelajari Selenium di Youtube Ide Jongkok.
+- Mempelajari Database MySQL di Udemy.
