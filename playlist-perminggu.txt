@@ -2,4 +2,5 @@ MENGUASAI PYTHON dan SELENIUM
 - Mempelajari python dasar di Youtube Kelas Terbuka.
   - Menggunakan IDE Visual Studio.
 - Mempelajari Selenium di Youtube Ide Jongkok.
-- Mempelajari Database MySQL di Udemy.
+- Mempelajari Database MySQL di Udemy
+- Mempelajari PHP.
